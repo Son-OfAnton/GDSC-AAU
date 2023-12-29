@@ -49,8 +49,8 @@
 
 .link:hover {
   text-decoration: none;
-  color: white;
-  background-color: rgb(61, 61, 180);
+  color: black;
+  background-color: rgb(255, 255, 255);
   border-radius: 8px;
 }
 
